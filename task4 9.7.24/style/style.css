@@ -1,0 +1,22 @@
+img{
+    width: 30px;
+    height:30px;
+    background-color: rgb(148, 148, 138);
+   
+
+}
+input{
+    height: 20px;
+    border-style: none;
+    
+}
+
+.gri{margin-top: 30px;
+    display: grid;
+    grid-template-columns: 250px 30px;
+    justify-content: center;
+    
+}
+body{
+    background-color: rgb(198, 198, 198);
+}
